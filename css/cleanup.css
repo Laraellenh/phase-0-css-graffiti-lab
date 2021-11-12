@@ -1,1 +1,23 @@
 /* write your override styles here */
+head { 
+    background: red;
+}
+body {
+    margin-top; 100px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px;
+
+}
+
+#wall .tag-1 {
+    display: none;
+  }
+
+ head div {
+     background-color: transparent;
+}
+ div {
+margin-left: 100px;
+ }
